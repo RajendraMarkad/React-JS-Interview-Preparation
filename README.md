@@ -1,4 +1,3 @@
-# React-JS-Interview-Preparation
 # React Interview Questions & Answers
 
 ---
